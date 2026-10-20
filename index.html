@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🎸 GuitarraIA - Mapeo Dinámico de Mástil</title>
+  <meta name="description" content="Explora el mástil de guitarra con afinaciones personalizadas: tríadas, escalas, acordes, terceras y sextas." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <button id="btn-sidebar" class="sidebar-toggle" aria-label="Abrir configuración">☰</button>
+
+  <aside id="sidebar" class="sidebar">
+    <h2>1. Configuración de Afinación</h2>
+    <label for="preset-selector">Preset</label>
+    <select id="preset-selector" title="Incluye presets estándar y populares"></select>
+    <p class="muted">O ajusta cada cuerda (de grave a aguda)</p>
+    <div id="cuerdas-grid" class="grid-2"></div>
+  </aside>
+
+  <main class="main">
+    <header>
+      <h1>🎸 GuitarraIA - Mapeo Dinámico de Mástil</h1>
+      <p class="muted">Explora el mástil de guitarra con afinaciones personalizadas y visualización de tríadas.</p>
+    </header>
+
+    <section class="card">
+      <h2>2. Configuración de Búsqueda</h2>
+      <div class="field">
+        <span class="label">Modo de visualización</span>
+        <div id="modo-vista" class="radio-row" role="radiogroup"></div>
+      </div>
+      <div class="grid-3">
+        <div class="field">
+          <label for="nota-raiz">Nota Raíz</label>
+          <select id="nota-raiz"></select>
+        </div>
+        <div class="field">
+          <label for="tipo-seleccionado" id="tipo-label">Tipo de Tríada</label>
+          <select id="tipo-seleccionado"></select>
+          <div id="cuerdas-field" class="field hidden">
+            <label for="cuerdas-intervalo" id="cuerdas-label">Cuerdas para Tercera</label>
+            <select id="cuerdas-intervalo"></select>
+          </div>
+        </div>
+        <div class="field" id="rango-field">
+          <span class="label">Rango de Trastes: <b id="rango-text">0 – 5</b></span>
+          <div class="range-dual">
+            <div class="range-track"><div id="range-fill" class="range-fill"></div></div>
+            <input type="range" id="traste-ini" min="0" max="19" value="0" aria-label="Traste inicial" />
+            <input type="range" id="traste-fin" min="0" max="19" value="5" aria-label="Traste final" />
+          </div>
+        </div>
+      </div>
+
+      <details class="expander">
+        <summary>ℹ️ Información de Afinación Actual</summary>
+        <div class="grid-2" id="info-afinacion"></div>
+      </details>
+    </section>
+
+    <section class="card">
+      <h2>3. Visualización del Mástil</h2>
+      <div id="error" class="alert error hidden"></div>
+      <div class="chart-wrap"><div id="chart"></div></div>
+      <nav id="posicion-nav" class="posicion-nav hidden" aria-label="Posiciones del acorde">
+        <button id="btn-pos-prev" class="btn" aria-label="Posición anterior">◀ Anterior</button>
+        <div class="posicion-info">
+          <b id="posicion-texto">Posición 1 / 4</b>
+          <span id="posicion-detalle" class="muted"></span>
+        </div>
+        <button id="btn-pos-next" class="btn" aria-label="Posición siguiente">Siguiente ▶</button>
+      </nav>
+      <div id="tooltip" class="tooltip hidden"></div>
+    </section>
+
+    <section class="card">
+      <h2>4. Acciones</h2>
+      <div class="grid-3">
+        <button id="btn-exportar" class="btn">💾 Exportar Imagen</button>
+        <button id="btn-guardar" class="btn">💾 Guardar Configuración</button>
+        <button id="btn-cargar" class="btn">📂 Cargar Configuración</button>
+      </div>
+      <input type="file" id="file-config" accept="application/json" class="hidden" />
+      <div id="mensaje" class="alert hidden"></div>
+    </section>
+
+    <footer>
+      <hr />
+      <p><b>GuitarraIA</b> - Herramienta educativa para guitarristas. Versión web (HTML + CSS + JS vanilla).</p>
+    </footer>
+  </main>
+
+  <script src="js/core.js"></script>
+  <script src="js/acordes_full.js"></script>
+  <script src="js/terceras_full.js"></script>
+  <script src="js/sextas_full.js"></script>
+  <script src="js/visualization.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,121 @@
+Nota,Tipo,Pos 1,Notacion 1,Descripcion 1,Pos2,Notacion 2,Descripcion 2,Pos3,Notacion 3,Descripcion 3,Pos4,Notacion 4,Descripcion 4
+C,Mayor,1,01023X,Abierta,2,35553X,Forma A (5ta),3,889AA8,Forma E (6ta),4,CDCAXX,Forma D (4ta)
+C,Menor,1,34553X,Abierta,2,888AA8,Forma Em (6ta),3,BDCAXX,Forma Dm (4ta),4,XABCCA,"Forma Am (5ta, octava alta)"
+C,7 (Dominante),1,35453X,Forma A7 (5ta),2,8899A8,Forma E7 (6ta),3,CBCAXX,Forma D7 (4ta),4,X3231X,Variante C7 (5ta)
+C,Maj7,1,34543X,Forma Amaj7 (5ta),2,8899A8,Forma Emaj7 (6ta),3,CCCAXX,Forma Dmaj7 (4ta),4,X3243X,Variante Cmaj7 (5ta)
+C,m7,1,34353X,Forma Am7 (5ta),2,888AA8,Forma Em7 (6ta),3,CBCAXX,Forma Dm7 (4ta),4,XABBCA,"Forma Am7 (5ta, octava alta)"
+C,dim7,1,34543X,Raíz 5ta cuerda,2,889898,Raíz 6ta cuerda,3,BABAXX,Raíz 4ta cuerda,4,XFGHGFX,Raíz 5ta (octava alta)
+C,aug,1,34443X,Raíz 5ta cuerda,2,889998,Raíz 6ta cuerda,3,BBBAXX,Raíz 4ta cuerda,4,XFGGGFX,Raíz 5ta (octava alta)
+C,9,1,35453X,Raíz 5ta cuerda,2,8899A8,Raíz 6ta cuerda,3,CBCAXX,Raíz 4ta cuerda,4,XFHGHFX,Raíz 5ta (octava alta)
+C,m9,1,35443X,Raíz 5ta cuerda,2,8A8AA8,Raíz 6ta cuerda,3,CABAXX,Raíz 4ta cuerda,4,XFHGGFX,Raíz 5ta (octava alta)
+C,maj9,1,34543X,Raíz 5ta cuerda,2,8899A8,Raíz 6ta cuerda,3,CCCAXX,Raíz 4ta cuerda,4,XFGHGFX,Raíz 5ta (octava alta)
+C# / Db,Mayor,1,12134X,Abierta,2,46664X,Forma A (5ta),3,99ABB9,Forma E (6ta),4,DEDBXX,Forma D (4ta)
+C# / Db,Menor,1,45664X,Abierta,2,999BB9,Forma Em (6ta),3,CEDBXX,Forma Dm (4ta),4,XBCDDB,"Forma Am (5ta, octava alta)"
+C# / Db,7 (Dominante),1,46564X,Forma A7 (5ta),2,99AAB9,Forma E7 (6ta),3,DCDBXX,Forma D7 (4ta),4,X4342X,Variante C7 (5ta)
+C# / Db,Maj7,1,45654X,Forma Amaj7 (5ta),2,99AAB9,Forma Emaj7 (6ta),3,DDDBXX,Forma Dmaj7 (4ta),4,X4354X,Variante Cmaj7 (5ta)
+C# / Db,m7,1,45464X,Forma Am7 (5ta),2,999BB9,Forma Em7 (6ta),3,DCDBXX,Forma Dm7 (4ta),4,XBCCDB,"Forma Am7 (5ta, octava alta)"
+C# / Db,dim7,1,45654X,Raíz 5ta cuerda,2,99A9A9,Raíz 6ta cuerda,3,CBCBXX,Raíz 4ta cuerda,4,XGHIHGX,Raíz 5ta (octava alta)
+C# / Db,aug,1,45554X,Raíz 5ta cuerda,2,99AAA9,Raíz 6ta cuerda,3,CCCBXX,Raíz 4ta cuerda,4,XGHHHGX,Raíz 5ta (octava alta)
+C# / Db,9,1,46564X,Raíz 5ta cuerda,2,99AAB9,Raíz 6ta cuerda,3,DCDBXX,Raíz 4ta cuerda,4,XGHIHGX,Raíz 5ta (octava alta)
+C# / Db,m9,1,46554X,Raíz 5ta cuerda,2,9B9BB9,Raíz 6ta cuerda,3,DBCBXX,Raíz 4ta cuerda,4,XGHIIGX,Raíz 5ta (octava alta)
+C# / Db,maj9,1,45654X,Raíz 5ta cuerda,2,99AAB9,Raíz 6ta cuerda,3,DDDBXX,Raíz 4ta cuerda,4,XGHIHGX,Raíz 5ta (octava alta)
+D,Mayor,1,2320XX,Abierta,2,57775X,Forma A (5ta),3,AABCCA,Forma E (6ta),4,7875XX,"Forma D (4ta, media)"
+D,Menor,1,1320XX,Abierta,2,56775X,Forma Am (5ta),3,AAACCA,Forma Em (6ta),4,6875XX,"Forma Dm (4ta, media)"
+D,7 (Dominante),1,57675X,Forma A7 (5ta),2,AABBCA,Forma E7 (6ta),3,2120XX,Forma D7 (4ta),4,X5453X,Variante C7 (5ta)
+D,Maj7,1,56765X,Forma Amaj7 (5ta),2,AABBCA,Forma Emaj7 (6ta),3,2220XX,Forma Dmaj7 (4ta),4,X5465X,Variante Cmaj7 (5ta)
+D,m7,1,56575X,Forma Am7 (5ta),2,AAACCA,Forma Em7 (6ta),3,2120XX,Forma Dm7 (4ta),4,X6765X,"Forma Am7 (5ta, octava alta)"
+D,dim7,1,56765X,Raíz 5ta cuerda,2,AABABA,Raíz 6ta cuerda,3,1010XX,Raíz 4ta cuerda,4,XHIJHIX,Raíz 5ta (octava alta)
+D,aug,1,56665X,Raíz 5ta cuerda,2,AABAAA,Raíz 6ta cuerda,3,1110XX,Raíz 4ta cuerda,4,XHIIIHX,Raíz 5ta (octava alta)
+D,9,1,57675X,Raíz 5ta cuerda,2,AABBCA,Raíz 6ta cuerda,3,2120XX,Raíz 4ta cuerda,4,XHIJHIX,Raíz 5ta (octava alta)
+D,m9,1,57665X,Raíz 5ta cuerda,2,AACACA,Raíz 6ta cuerda,3,1010XX,Raíz 4ta cuerda,4,XHIJJIX,Raíz 5ta (octava alta)
+D,maj9,1,56765X,Raíz 5ta cuerda,2,AABBCA,Raíz 6ta cuerda,3,2220XX,Raíz 4ta cuerda,4,XHIJHIX,Raíz 5ta (octava alta)
+D# / Eb,Mayor,1,3431XX,Abierta,2,68886X,Forma A (5ta),3,BBCDDB,Forma E (6ta),4,8986XX,"Forma D (4ta, media)"
+D# / Eb,Menor,1,2431XX,Abierta,2,67886X,Forma Am (5ta),3,BBBDDB,Forma Em (6ta),4,7986XX,"Forma Dm (4ta, media)"
+D# / Eb,7 (Dominante),1,68786X,Forma A7 (5ta),2,BBCBCB,Forma E7 (6ta),3,3231XX,Forma D7 (4ta),4,X6564X,Variante C7 (5ta)
+D# / Eb,Maj7,1,67876X,Forma Amaj7 (5ta),2,BBCBCB,Forma Emaj7 (6ta),3,3331XX,Forma Dmaj7 (4ta),4,X6576X,Variante Cmaj7 (5ta)
+D# / Eb,m7,1,67686X,Forma Am7 (5ta),2,BBBDDB,Forma Em7 (6ta),3,3231XX,Forma Dm7 (4ta),4,X7876X,"Forma Am7 (5ta, octava alta)"
+D# / Eb,dim7,1,67876X,Raíz 5ta cuerda,2,BBCBCB,Raíz 6ta cuerda,3,2121XX,Raíz 4ta cuerda,4,XIJKJIX,Raíz 5ta (octava alta)
+D# / Eb,aug,1,67776X,Raíz 5ta cuerda,2,BBCBBB,Raíz 6ta cuerda,3,2221XX,Raíz 4ta cuerda,4,XIJJIJX,Raíz 5ta (octava alta)
+D# / Eb,9,1,68786X,Raíz 5ta cuerda,2,BBCBCB,Raíz 6ta cuerda,3,3231XX,Raíz 4ta cuerda,4,XIJKJIX,Raíz 5ta (octava alta)
+D# / Eb,m9,1,68776X,Raíz 5ta cuerda,2,BBDBDB,Raíz 6ta cuerda,3,2121XX,Raíz 4ta cuerda,4,XIJKKIX,Raíz 5ta (octava alta)
+D# / Eb,maj9,1,67876X,Raíz 5ta cuerda,2,BBCBCB,Raíz 6ta cuerda,3,3331XX,Raíz 4ta cuerda,4,XIJKJIX,Raíz 5ta (octava alta)
+E,Mayor,1,1220,Abierta,2,79997X,Forma A (5ta),3,4542XX,Forma D (4ta),4,45467X,"Forma C (5ta, media)"
+E,Menor,1,220,Abierta,2,78997X,Forma Am (5ta),3,3542XX,Forma Dm (4ta),4,35356X,"Forma C (5ta, media)"
+E,7 (Dominante),1,79897X,Forma A7 (5ta),2,4544XX,Forma E7 (6ta),3,20100,Forma D7 (4ta),4,X7675X,Variante C7 (5ta)
+E,Maj7,1,78987X,Forma Amaj7 (5ta),2,4653XX,Forma Emaj7 (6ta),3,21100,Forma Dmaj7 (4ta),4,X7687X,Variante Cmaj7 (5ta)
+E,m7,1,78797X,Forma Am7 (5ta),2,3542XX,Forma Em7 (6ta),3,20100,Forma Dm7 (4ta),4,X8987X,"Forma Am7 (5ta, octava alta)"
+E,dim7,1,78987X,Raíz 5ta cuerda,2,454544,Raíz 6ta cuerda,3,1010XX,Raíz 4ta cuerda,4,XJKLJKX,Raíz 5ta (octava alta)
+E,aug,1,78887X,Raíz 5ta cuerda,2,455544,Raíz 6ta cuerda,3,1110XX,Raíz 4ta cuerda,4,XJKKKJX,Raíz 5ta (octava alta)
+E,9,1,79897X,Raíz 5ta cuerda,2,4544XX,Raíz 6ta cuerda,3,20100,Raíz 4ta cuerda,4,XJKLJKX,Raíz 5ta (octava alta)
+E,m9,1,79887X,Raíz 5ta cuerda,2,464644,Raíz 6ta cuerda,3,1010XX,Raíz 4ta cuerda,4,XJKLLJX,Raíz 5ta (octava alta)
+E,maj9,1,78987X,Raíz 5ta cuerda,2,4653XX,Raíz 6ta cuerda,3,21100,Raíz 4ta cuerda,4,XJKLJKX,Raíz 5ta (octava alta)
+F,Mayor,1,112331,Abierta,2,8AAA8X,Forma A (5ta),3,5653XX,Forma D (4ta),4,56578X,"Forma C (5ta, media)"
+F,Menor,1,111331,Abierta,2,89AA8X,Forma Am (5ta),3,4653XX,Forma Dm (4ta),4,46467X,"Forma C (5ta, media)"
+F,7 (Dominante),1,8A9A8X,Forma A7 (5ta),2,5655XX,Forma E7 (6ta),3,131211,Forma D7 (4ta),4,X8786X,Variante C7 (5ta)
+F,Maj7,1,89A98X,Forma Amaj7 (5ta),2,5764XX,Forma Emaj7 (6ta),3,132211,Forma Dmaj7 (4ta),4,X8798X,Variante Cmaj7 (5ta)
+F,m7,1,898A8X,Forma Am7 (5ta),2,4653XX,Forma Em7 (6ta),3,131211,Forma Dm7 (4ta),4,X9A98X,"Forma Am7 (5ta, octava alta)"
+F,dim7,1,89A98X,Raíz 5ta cuerda,2,565655,Raíz 6ta cuerda,3,2121XX,Raíz 4ta cuerda,4,XKLMLKX,Raíz 5ta (octava alta)
+F,aug,1,89998X,Raíz 5ta cuerda,2,566655,Raíz 6ta cuerda,3,2221XX,Raíz 4ta cuerda,4,XKLLMLX,Raíz 5ta (octava alta)
+F,9,1,8A9A8X,Raíz 5ta cuerda,2,5655XX,Raíz 6ta cuerda,3,131211,Raíz 4ta cuerda,4,XKLMLKX,Raíz 5ta (octava alta)
+F,m9,1,8A998X,Raíz 5ta cuerda,2,575755,Raíz 6ta cuerda,3,2121XX,Raíz 4ta cuerda,4,XKLMMKX,Raíz 5ta (octava alta)
+F,maj9,1,89A98X,Raíz 5ta cuerda,2,5764XX,Raíz 6ta cuerda,3,132211,Raíz 4ta cuerda,4,XKLMLKX,Raíz 5ta (octava alta)
+F# / Gb,Mayor,1,223442,Abierta,2,9BBB9X,Forma A (5ta),3,6764XX,Forma D (4ta),4,67689X,"Forma C (5ta, media)"
+F# / Gb,Menor,1,222442,Abierta,2,9ABB9X,Forma Am (5ta),3,5764XX,Forma Dm (4ta),4,57578X,"Forma C (5ta, media)"
+F# / Gb,7 (Dominante),1,9BAB9X,Forma A7 (5ta),2,6766XX,Forma E7 (6ta),3,242322,Forma D7 (4ta),4,X9897X,Variante C7 (5ta)
+F# / Gb,Maj7,1,9ABABX,Forma Amaj7 (5ta),2,6875XX,Forma Emaj7 (6ta),3,243322,Forma Dmaj7 (4ta),4,X98A9X,Variante Cmaj7 (5ta)
+F# / Gb,m7,1,9A9B9X,Forma Am7 (5ta),2,5764XX,Forma Em7 (6ta),3,242322,Forma Dm7 (4ta),4,XABABX,"Forma Am7 (5ta, octava alta)"
+F# / Gb,dim7,1,9ABABX,Raíz 5ta cuerda,2,676766,Raíz 6ta cuerda,3,3232XX,Raíz 4ta cuerda,4,XLMNMLX,Raíz 5ta (octava alta)
+F# / Gb,aug,1,9AAABX,Raíz 5ta cuerda,2,677766,Raíz 6ta cuerda,3,3332XX,Raíz 4ta cuerda,4,XLMMMLX,Raíz 5ta (octava alta)
+F# / Gb,9,1,9BAB9X,Raíz 5ta cuerda,2,6766XX,Raíz 6ta cuerda,3,242322,Raíz 4ta cuerda,4,XLMNMLX,Raíz 5ta (octava alta)
+F# / Gb,m9,1,9BAABX,Raíz 5ta cuerda,2,686866,Raíz 6ta cuerda,3,3232XX,Raíz 4ta cuerda,4,XLMNNLX,Raíz 5ta (octava alta)
+F# / Gb,maj9,1,9ABABX,Raíz 5ta cuerda,2,6875XX,Raíz 6ta cuerda,3,243322,Raíz 4ta cuerda,4,XLMNMLX,Raíz 5ta (octava alta)
+G,Mayor,1,300023,Abierta,2,ACCCAX,Forma A (5ta),3,334553,Forma E (6ta),4,7875XX,Forma D (4ta)
+G,Menor,1,333553,Abierta,2,ABCCAX,Forma Am (5ta),3,6875XX,Forma Dm (4ta),4,XBCDDB,"Forma Am (5ta, octava alta)"
+G,7 (Dominante),1,ACBCAX,Forma A7 (5ta),2,334353,Forma E7 (6ta),3,7875XX,Forma D7 (4ta),4,X9898X,Variante C7 (5ta)
+G,Maj7,1,ABCBAX,Forma Amaj7 (5ta),2,345453,Forma Emaj7 (6ta),3,6876XX,Forma Dmaj7 (4ta),4,X98A9X,Variante Cmaj7 (5ta)
+G,m7,1,ABABAX,Forma Am7 (5ta),2,6875XX,Forma Em7 (6ta),3,7875XX,Forma Dm7 (4ta),4,XBCBCB,"Forma Am7 (5ta, octava alta)"
+G,dim7,1,ABCBAX,Raíz 5ta cuerda,2,343433,Raíz 6ta cuerda,3,4343XX,Raíz 4ta cuerda,4,XMNONMX,Raíz 5ta (octava alta)
+G,aug,1,ABBBAX,Raíz 5ta cuerda,2,344433,Raíz 6ta cuerda,3,4443XX,Raíz 4ta cuerda,4,XMNOONX,Raíz 5ta (octava alta)
+G,9,1,ACBCAX,Raíz 5ta cuerda,2,334353,Raíz 6ta cuerda,3,7875XX,Raíz 4ta cuerda,4,XMNONMX,Raíz 5ta (octava alta)
+G,m9,1,ACBAAX,Raíz 5ta cuerda,2,353533,Raíz 6ta cuerda,3,4343XX,Raíz 4ta cuerda,4,XMNOPNX,Raíz 5ta (octava alta)
+G,maj9,1,ABCBAX,Raíz 5ta cuerda,2,345453,Raíz 6ta cuerda,3,6876XX,Raíz 4ta cuerda,4,XMNONMX,Raíz 5ta (octava alta)
+G# / Ab,Mayor,1,445664,Abierta,2,BDDDBX,Forma A (5ta),3,8986XX,Forma D (4ta),4,898ABX,"Forma C (5ta, media)"
+G# / Ab,Menor,1,444664,Abierta,2,BCDDBX,Forma Am (5ta),3,7986XX,Forma Dm (4ta),4,XCDEECX,"Forma Am (5ta, octava alta)"
+G# / Ab,7 (Dominante),1,BDCDBX,Forma A7 (5ta),2,8988XX,Forma E7 (6ta),3,4544XX,Forma D7 (4ta),4,XA9BAX,Variante C7 (5ta)
+G# / Ab,Maj7,1,BCBDBX,Forma Amaj7 (5ta),2,8A97XX,Forma Emaj7 (6ta),3,7987XX,Forma Dmaj7 (4ta),4,XA8B9X,Variante Cmaj7 (5ta)
+G# / Ab,m7,1,BCBCBX,Forma Am7 (5ta),2,7986XX,Forma Em7 (6ta),3,8988XX,Forma Dm7 (4ta),4,XCDCDCX,"Forma Am7 (5ta, octava alta)"
+G# / Ab,dim7,1,BCBDBX,Raíz 5ta cuerda,2,898988,Raíz 6ta cuerda,3,5454XX,Raíz 4ta cuerda,4,XNOPONX,Raíz 5ta (octava alta)
+G# / Ab,aug,1,BCCCBX,Raíz 5ta cuerda,2,899988,Raíz 6ta cuerda,3,5554XX,Raíz 4ta cuerda,4,XNOPPNX,Raíz 5ta (octava alta)
+G# / Ab,9,1,BDCDBX,Raíz 5ta cuerda,2,8988XX,Raíz 6ta cuerda,3,4544XX,Raíz 4ta cuerda,4,XNOPONX,Raíz 5ta (octava alta)
+G# / Ab,m9,1,BDCBBX,Raíz 5ta cuerda,2,8A8A88,Raíz 6ta cuerda,3,5454XX,Raíz 4ta cuerda,4,XNOPQNX,Raíz 5ta (octava alta)
+G# / Ab,maj9,1,BCBDBX,Raíz 5ta cuerda,2,8A97XX,Raíz 6ta cuerda,3,7987XX,Raíz 4ta cuerda,4,XNOPONX,Raíz 5ta (octava alta)
+A,Mayor,1,02220X,Abierta,2,556775,Forma E (6ta),3,9A97XX,Forma D (4ta),4,533345,Forma G (6ta)
+A,Menor,1,01220X,Abierta,2,555775,Forma Em (6ta),3,8A97XX,Forma Dm (4ta),4,XCDEECX,"Forma Am (5ta, octava alta)"
+A,7 (Dominante),1,555755,Forma E7 (6ta),2,7977XX,Forma D7 (4ta),3,02020X,Abierta,4,XBACABX,Variante C7 (5ta)
+A,Maj7,1,546755,Forma Emaj7 (6ta),2,8B98XX,Forma Dmaj7 (4ta),3,02120X,Abierta,4,XBA9ABX,Variante Cmaj7 (5ta)
+A,m7,1,555755,Forma Em7 (6ta),2,7977XX,Forma Dm7 (4ta),3,00000X,Abierta,4,XCDCDCX,"Forma Am7 (5ta, octava alta)"
+A,dim7,1,BACABX,Raíz 5ta cuerda,2,565655,Raíz 6ta cuerda,3,6565XX,Raíz 4ta cuerda,4,XOPQPOX,Raíz 5ta (octava alta)
+A,aug,1,BAAABX,Raíz 5ta cuerda,2,566655,Raíz 6ta cuerda,3,6665XX,Raíz 4ta cuerda,4,XOPQQPX,Raíz 5ta (octava alta)
+A,9,1,BACABX,Raíz 5ta cuerda,2,7977XX,Raíz 6ta cuerda,3,02020X,Raíz 4ta cuerda,4,XOPQPOX,Raíz 5ta (octava alta)
+A,m9,1,BACAAX,Raíz 5ta cuerda,2,575755,Raíz 6ta cuerda,3,6565XX,Raíz 4ta cuerda,4,XOPQQPX,Raíz 5ta (octava alta)
+A,maj9,1,BACABX,Raíz 5ta cuerda,2,8B98XX,Raíz 6ta cuerda,3,02120X,Raíz 4ta cuerda,4,XOPQPOX,Raíz 5ta (octava alta)
+A# / Bb,Mayor,1,13331X,Abierta,2,667886,Forma E (6ta),3,ABA8XX,Forma D (4ta),4,644456,Forma G (6ta)
+A# / Bb,Menor,1,12331X,Abierta,2,666886,Forma Em (6ta),3,9BA8XX,Forma Dm (4ta),4,XDEFFDX,"Forma Am (5ta, octava alta)"
+A# / Bb,7 (Dominante),1,666866,Forma E7 (6ta),2,8A88XX,Forma D7 (4ta),3,13131X,Abierta,4,XCBDBCX,Variante C7 (5ta)
+A# / Bb,Maj7,1,657866,Forma Emaj7 (6ta),2,9C99XX,Forma Dmaj7 (4ta),3,13231X,Abierta,4,XCBABDX,Variante Cmaj7 (5ta)
+A# / Bb,m7,1,666866,Forma Em7 (6ta),2,8A88XX,Forma Dm7 (4ta),3,13131X,Abierta,4,XDEDEEX,"Forma Am7 (5ta, octava alta)"
+A# / Bb,dim7,1,CBDBCX,Raíz 5ta cuerda,2,676766,Raíz 6ta cuerda,3,7676XX,Raíz 4ta cuerda,4,XPQRQPX,Raíz 5ta (octava alta)
+A# / Bb,aug,1,CBBBCX,Raíz 5ta cuerda,2,677766,Raíz 6ta cuerda,3,7776XX,Raíz 4ta cuerda,4,XPQRRQX,Raíz 5ta (octava alta)
+A# / Bb,9,1,CBDBCX,Raíz 5ta cuerda,2,8A88XX,Raíz 6ta cuerda,3,13131X,Raíz 4ta cuerda,4,XPQRQPX,Raíz 5ta (octava alta)
+A# / Bb,m9,1,CBBC CX,Raíz 5ta cuerda,2,686866,Raíz 6ta cuerda,3,7676XX,Raíz 4ta cuerda,4,XPQRRQX,Raíz 5ta (octava alta)
+A# / Bb,maj9,1,CBDBCX,Raíz 5ta cuerda,2,9C99XX,Raíz 6ta cuerda,3,13231X,Raíz 4ta cuerda,4,XPQRQPX,Raíz 5ta (octava alta)
+B,Mayor,1,24442X,Abierta,2,778997,Forma E (6ta),3,BCB9XX,Forma D (4ta),4,X0X12X,Forma C (5ta)
+B,Menor,1,23442X,Abierta,2,777997,Forma Em (6ta),3,ACB9XX,Forma Dm (4ta),4,XEFGGEX,"Forma Am (5ta, octava alta)"
+B,7 (Dominante),1,777977,Forma E7 (6ta),2,9B99XX,Forma D7 (4ta),3,21202X,Abierta,4,XDCDCDX,Variante C7 (5ta)
+B,Maj7,1,768977,Forma Emaj7 (6ta),2,ADAAXX,Forma Dmaj7 (4ta),3,24342X,Abierta,4,XDCBCDX,Variante Cmaj7 (5ta)
+B,m7,1,777977,Forma Em7 (6ta),2,9B99XX,Forma Dm7 (4ta),3,23232X,Abierta,4,XEFEFEX,"Forma Am7 (5ta, octava alta)"
+B,dim7,1,DCDC DX,Raíz 5ta cuerda,2,787877,Raíz 6ta cuerda,3,8787XX,Raíz 4ta cuerda,4,XQRSRQX,Raíz 5ta (octava alta)
+B,aug,1,DCCCDX,Raíz 5ta cuerda,2,788877,Raíz 6ta cuerda,3,8887XX,Raíz 4ta cuerda,4,XQRSSRX,Raíz 5ta (octava alta)
+B,9,1,DCDC DX,Raíz 5ta cuerda,2,9B99XX,Raíz 6ta cuerda,3,21202X,Raíz 4ta cuerda,4,XQRSRQX,Raíz 5ta (octava alta)
+B,m9,1,DCDC CX,Raíz 5ta cuerda,2,797977,Raíz 6ta cuerda,3,8787XX,Raíz 4ta cuerda,4,XQRSSRX,Raíz 5ta (octava alta)
+B,maj9,1,DCDC DX,Raíz 5ta cuerda,2,ADAAXX,Raíz 6ta cuerda,3,24342X,Raíz 4ta cuerda,4,XQRSRQX,Raíz 5ta (octava alta)
