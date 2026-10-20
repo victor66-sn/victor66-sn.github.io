@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - No Encontrado</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #0a0a0a; /* Fondo exterior casi negro */
+            font-family: 'Segoe UI', sans-serif;
+            overflow: hidden;
+        }
+
+        /* El contenedor ocupa el 90% de la ventana */
+        .contenedor-90 {
+            width: 90vw;
+            height: 90vh;
+            position: relative;
+            overflow: hidden;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.8);
+            border: 1px solid #222;
+        }
+
+        /* La imagen llena el contenedor al 100% */
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Mantiene la proporción sin deformarse */
+            display: block;
+        }
+
+        /* Texto sobre la imagen */
+        .capa-info {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: radial-gradient(circle, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.6) 100%);
+            color: white;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: clamp(2.5rem, 8vw, 5rem);
+            text-shadow: 0 4px 15px rgba(0,0,0,0.9);
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            margin-bottom: 25px;
+        }
+
+        .btn {
+            padding: 12px 30px;
+            background: #ffffff;
+            color: #000;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        .btn:hover {
+            background: #ccc;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="contenedor-90">
+        <img src="cuatro.webp" alt="Error 404">
+
+        <div class="capa-info">
+            <p>Parece que hemos perdido el camino</p>
+        </div>
+    </div>
+
+</body>
+</html>
